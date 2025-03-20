@@ -1,3 +1,9 @@
+# Editor
+.vscode
+
+# Scripts
+build.sh
+
 # Prerequisites
 *.d
 
@@ -29,6 +35,7 @@
 *.dylib
 
 # Executables
+out/*
 *.exe
 *.out
 *.app
