@@ -8,7 +8,7 @@ make
 ```
 
 ## Usage
-The command line content can be found in "/proc/<pid>/cmdline".
+The command line content can be found in "/proc/pid/cmdline".
 The path to the libary has to be absolute.
 ptrace requires root.
 ```bash
